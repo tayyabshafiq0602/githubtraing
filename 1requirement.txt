@@ -1,0 +1,6 @@
+First make layout
+Then test it
+go in main Activity
+
+debug problems
+and goon
