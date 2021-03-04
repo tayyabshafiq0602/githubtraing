@@ -1,0 +1,3 @@
+First make layout
+Then test it
+go in main Activity
